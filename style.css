@@ -1,0 +1,48 @@
+h1 {
+  color: rgb(0, 0, 0);
+}
+h2 {
+  color: bisque;
+}
+
+h4 {
+  color: rgb(150, 120, 140);
+}
+h3 {
+  color: rgb(100, 200, 300);
+
+  background-color: rgb(5, 169, 169);
+}
+
+#div-1 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(201, 228, 132);
+}
+
+#div-2 {
+  color: rgb(0, 0, 0);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
